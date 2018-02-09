@@ -1,0 +1,41 @@
+section {
+    width: 630px;
+    height: 550px;
+
+    background-color: #ffffff;
+
+    padding: 20px;
+
+    float: left;
+
+    overflow: hidden;
+}
+
+input[type=text] {
+    padding: 5px;
+    margin-left: 10px;
+
+    border: 2px solid #cccccc;
+
+    width: 500px;
+
+    overflow: auto;
+}
+
+input[type=submit] {
+    background-color: #4aaaac;
+    color: #ffffff;
+    font-size: 20px;
+
+    height: 50px;
+    width: 150px;
+
+    margin: 20px 10px;
+}
+
+textarea {
+    padding: 5px;
+    margin-left: 10px;
+
+    border: 2px solid #cccccc;
+}

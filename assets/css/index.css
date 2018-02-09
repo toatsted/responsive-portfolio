@@ -1,0 +1,19 @@
+section {
+    width: 630px;
+    height: 420px;
+
+    background-color: #ffffff;
+
+    padding: 20px;
+
+    float: left;
+}
+
+section img {
+    float: left;
+
+    margin: 20px 10px 0 0;
+
+    width: 200px;
+    height: 200px;
+}
