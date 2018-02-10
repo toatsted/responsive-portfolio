@@ -172,3 +172,15 @@ aside h2 {
 aside img {
     border-radius: 50%;
 }
+
+@media screen (max-width: 980px) {
+    
+}
+
+@media screen (max-width: 768px) {
+
+}
+
+@media screen (max-width: 640px) {
+    
+}
